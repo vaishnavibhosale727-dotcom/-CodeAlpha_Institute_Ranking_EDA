@@ -1,2 +1,16 @@
-# -CodeAlpha_Institute_Ranking_EDA
-Exploratory Data Analysis (EDA) project using Python and Google Colab. The project involves data cleaning, analysis, and visualization to uncover insights from an institute ranking dataset.
+ ## Project Title
+Exploratory Data Analysis on Institute Ranking Dataset
+
+## Tools Used
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Google Colab
+
+## Project Overview
+Performed data cleaning, handling missing values, duplicate removal, exploratory analysis, and data visualization to identify patterns and insights in the dataset.
+
+## Tasks Completed
+- Exploratory Data Analysis (EDA)
+- Data Visualization
