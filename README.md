@@ -14,3 +14,7 @@ Performed data cleaning, handling missing values, duplicate removal, exploratory
 ## Tasks Completed
 - Exploratory Data Analysis (EDA)
 - Data Visualization
+- web scraping 
+
+**##Author**
+Vaishnavi Bhosale
